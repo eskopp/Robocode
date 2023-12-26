@@ -1,2 +1,8 @@
-javac -d out -cp robocode.jar Niffler/Niffler.java
-:: jar cvfe Niffler.jar Niffler.Niffler -C out .
+@echo off
+title Build Niffler v0.0.0
+cd Niffler 
+javac -cp robocode.jar Niffler.java 
+:: Linux: cp | Windows copy :)
+copy Niffler.class ../Niffler.class
+cd ..
+@echo on
