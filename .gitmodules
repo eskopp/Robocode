@@ -1,0 +1,3 @@
+[submodule "robocode"]
+	path = robocode
+	url = https://github.com/robo-code/robocode
