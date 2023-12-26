@@ -88,3 +88,5 @@ javac -cp robocode.jar Niffler.java
 ## History
 - [v0.0.0](https://github.com/eskopp/Robocode/releases/tag/v0.0.0)
     - He learns to drive
+- [v0.0.1](https://github.com/eskopp/Robocode/releases/tag/v0.0.1)
+    - Basic defese
