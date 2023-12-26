@@ -78,4 +78,8 @@ javac -cp robocode.jar Niffler.java
     ```
 
 ## Robocode
+### New Battle
+![New-Battle](.github/images/new_battle.png)
 
+### Battle
+![Battle](.github/images/Battle.png)
